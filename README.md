@@ -10,8 +10,8 @@
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Skill</h3>
+![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 <br/>
 
 <a href="https://github.com/AVS1508">
