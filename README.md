@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias e buscando mais novidades.
 - 🎓 &nbsp; Estudante de Sistemas de informação pela UVA.
 - 💼 &nbsp; Em busca da minha primeira experiência no mercado de desenvolvimento.
 
