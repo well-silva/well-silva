@@ -1,13 +1,11 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Ei! Eu sou Wellington.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudante de Sistemas de informação pela UVA.
-- 💼 &nbsp; Em busca da minha primeira experiencia no mercado de desenvolvimento.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 💼 &nbsp; Em busca da minha primeira experiência no mercado de desenvolvimento.
+
 
 <h3> 🛠 &nbsp;Skills</h3>
 <p display="iniline">
@@ -29,14 +27,14 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/well-silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=well-silva&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=well-silva&theme=buefy&layout=compact" />
 </a>
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Conecte-se comigo </h3>
 
 <p align="center">
 <a href="https://github.com/well-silva/"><img alt="gitgub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
