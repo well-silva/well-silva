@@ -10,7 +10,7 @@
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Skill</h3>
-![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" />
 
 <br/>
 
