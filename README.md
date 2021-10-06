@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e buscando mais novidades.
 - 🎓 &nbsp; Estudante de Sistemas de informação pela UVA.
-- 💼 &nbsp; Em busca da minha primeira experiência no mercado de desenvolvimento.
+- 💼 &nbsp; Dev Fullstack Jr na Captalys.
 
 
 <h3> 🛠 &nbsp;Skills</h3>
