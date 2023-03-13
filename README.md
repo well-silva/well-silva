@@ -27,10 +27,10 @@
 
 <br/>
 
-<!-- <a href="https://github.com/well-silva">
+<a href="https://github.com/well-silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=well-silva&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=well-silva&theme=buefy&layout=compact" />
-</a> -->
+</a>
 
 <br/>
 
