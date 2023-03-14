@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e buscando mais novidades.
 - 🎓 &nbsp; Estudante de Sistemas de informação pela UVA.
-- 💼 &nbsp; Dev Fullstack Jr na Captalys.
+- 💼 &nbsp; Dev Fullstack na Vortx QR Tokenizadora.
 
 
 <h3> 🛠 &nbsp;Skills</h3>
